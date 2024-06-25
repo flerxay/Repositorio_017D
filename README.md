@@ -1,6 +1,6 @@
 # Seccion 017D
 
-Este es un ejercicio para el ramo o asignatura de Git impartido en el Instituto profesional de Duoc UC en Chile. El código fuente está organizado en diferentes ramas para facilitar el desarrollo y la colaboración.
+Este es un ejercicio para el ramo o asignatura de Git impartido en el Instituto profesional de Duoc UC en Región Metropolitana, Santiago de Chile. El código fuente está organizado en diferentes ramas para facilitar el desarrollo y la colaboración.
 
 ## Ramas
 
