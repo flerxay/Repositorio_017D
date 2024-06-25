@@ -1,6 +1,6 @@
 # Seccion 017D
 
-Este es un proyecto increíble que hace cosas asombrosas. El código fuente está organizado en diferentes ramas para facilitar el desarrollo y la colaboración.
+Este es un ejercicio para el ramo o asignatura de Git. El código fuente está organizado en diferentes ramas para facilitar el desarrollo y la colaboración.
 
 ## Ramas
 
